@@ -8,3 +8,7 @@ math-modeling2026/
 ├── data/ # 原始与处理后的数据  
 ├── figures/ # 输出图像  
 └── README.md
+
+## 文件概述兼日志
+- 2026-1-18 test测试python绘图流程
+- 2026-1-19 generated_data测试正态分布数据、绘制残差分析图
