@@ -1,2 +1,1 @@
-- 赛题参考：
-- 网盘资料参考：
+- 赛题参考：https://github.com/zhanwen/MathModel
